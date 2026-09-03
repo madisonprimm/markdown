@@ -7,7 +7,7 @@ Markdown is most useful for simple for things such as documents, notes, websites
 
 ## Question 3
 
-### Question 4
+## Question 4
 Markdown is a simple way to format plain text and turn it into things like HTML for websites. AI is also heavily connected to Markdown. Large language models are trained on lots of Markdown-formatted content, which is why AI often produces headings, bold text, and lists in Markdown style. 
 ## Question 5
 Markdown was made freely available, which contrasts with Scribe, an older system that became commercialized. 
